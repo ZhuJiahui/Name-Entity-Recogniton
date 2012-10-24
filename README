@@ -1,0 +1,17 @@
+1.NLTKFeatureDetection.py
+RUN:
+python NLTKFeatureDetection.py C:\\XMLFileFolder(example)
+NOTE :
+StopWords.py is the imported file.
+
+2.StanfordFeatureBooleanDetection.py
+RUN:
+python StanfordFeatureBooleanDetection.py C:\\TaggedCorpusFolder(example)
+NOTE :
+StopWords.py is the imported file.
+
+3.StanfordFeaturesProbablisticDetection.py
+RUN:
+python StanfordFeaturesProbablisticDetection.py C:\\TaggedCorpusFolder(example)
+NOTE :
+StopWords.py and InvertedIndex.py are the imported files.

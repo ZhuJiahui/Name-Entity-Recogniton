@@ -1,0 +1,4 @@
+RUN:
+python PreProcessor.py PACCASES.tsv NewFolder_XMlFiles
+NOTE :
+NGRAMS.py and other required files are the imported files in the Code.
